@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: hsl(257, 40%, 49%);
+  background-image: url("/img/bg-desktop.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  display: flex;
+}
+
+.container {
+  width: 90vw;
+  margin: auto;
+}
+
+.logo {
+  margin-top: 7vh;
+  margin-bottom: 10vh;
+  width: 16vw;
+}
+
+.logo img {
+  width: 95%;
+}
+
+.explanation {
+  margin-top: 7vh;
+  margin-left: 3vw;
+}
+
+.explanation h1 {
+  font-weight: 600;
+  font-size: 2.5rem;
+  margin-bottom: 2.5vh;
+  padding-right: 5vw;
+}
+
+.explanation p {
+  line-height: 1.6rem;
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 3vh;
+  padding-right: 3vw;
+}
+
+section a {
+  padding: 1.7vh 4vw 2vh 4vw;
+  background-color: white;
+  border-radius: 30px;
+  color: hsla(257, 40%, 49%, 0.7);
+  font-weight: 600;
+  font-size: 1.1rem;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+}
+
+section a:hover {
+  color: white;
+  background-color: hsl(300, 53%, 72%);
+  transform: scale(1.05);
+}
+
+.social {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.social a {
+  border-radius: 50%;
+  border: 1px solid white;
+  padding: 0.7vh 0.5vw;
+  margin-left: 1.3vw;
+  color: white;
+  width: 40px;
+  text-align: center;
+}
+
+.social a:hover {
+  border-color: hsl(300, 81%, 49%);
+  color: hsl(300, 81%, 49%);
+  transform: scale(1.1);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #fc9790;
+}
+
+@media screen and (max-width: 425px) {
+  body {
+    background-image: url("/img/bg-mobile.svg");
+    background-size: contain;
+  }
+
+  .container {
+    width: 85vw;
+  }
+
+  .logo {
+    width: 35vw;
+    margin-top: 5vh;
+    margin-bottom: 7.5vh;
+  }
+
+  section {
+    flex-direction: column;
+  }
+
+  .mockup img {
+    width: 100%;
+  }
+
+  .explanation {
+    text-align: center;
+  }
+
+  .explanation h1 {
+    font-size: 1.5rem;
+  }
+
+  .explanation p {
+    padding: 0;
+  }
+
+  section a {
+    padding: 2vh 20vw 1.5vh 20vw;
+    font-size: 0.85rem;
+    margin-bottom: 8vh;
+  }
+
+  .social {
+    justify-content: center;
+  }
+
+  .social a {
+    margin-left: 4vw;
+    margin-bottom: 2vh;
+  }
+}
