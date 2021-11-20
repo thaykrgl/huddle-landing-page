@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/profile/thaykrgl]
-- Live Site URL: [https://thaykrgl.github.io/nft-preview-card-component/]
+- Live Site URL: [https://thaykrgl.github.io/huddle-landing-page/]
 
 ## My process
 
