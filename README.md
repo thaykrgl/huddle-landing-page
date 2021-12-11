@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/profile/thaykrgl]
-- Live Site URL: [https://thaykrgl.github.io/huddle-landing-page/]
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/thaykrgl)
+- Live Site URL: [Github Pages](https://thaykrgl.github.io/huddle-landing-page/)
 
 ## My process
 
