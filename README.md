@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle Landing Page
 
-This is a solution to the [Huddle Landing Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+This is a solution to the [Huddle Landing Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ## Table of contents
 
