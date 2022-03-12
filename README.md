@@ -6,7 +6,7 @@ This is a solution to the [Huddle Landing Page Challenge on Frontend Mentor](htt
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -20,10 +20,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-<img src="./img/huddle-landing-page-desktop.png" alt="hlp-desktop">
-<img src="./img/huddle-landing-page-mobile.png" alt="hlp-mobile">
+#### Desktop View
+<img src="./img/huddle-landing-page-desktop.png" alt="Desktop View">
+
+#### Mobile View
+<img src="./img/huddle-landing-page-mobile.png" alt="Mobile View">
 
 ### Links
 
@@ -35,10 +38,10 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
 - Mobile-first workflow
-- Font Awesome Icons
+- Flexbox
+- Font Awesome
+- Google Fonts
 
 ## Author
 
