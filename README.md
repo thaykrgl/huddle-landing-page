@@ -6,7 +6,7 @@ This is a solution to the [Huddle Landing Page Challenge on Frontend Mentor](htt
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshots](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
