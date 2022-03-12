@@ -41,6 +41,7 @@ Users should be able to:
 - Mobile-first workflow
 - Flexbox
 - Font Awesome
+- Media Queries
 - Google Fonts
 
 ## Author
